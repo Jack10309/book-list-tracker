@@ -3,7 +3,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/Jack10309/book-list-tracker)](https://github.com/Jack10309/book-list-tracker/issues)
 
-This project allows you to save book information in the database. You can get the list of the books saved and its details.
+This project allows you to save book information in the database. You can get the list of the books saved and its details. The goal of building this project is to understand and learn how graphql works in the client and server side.
 
 
 ## Installation
