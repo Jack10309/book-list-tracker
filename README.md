@@ -16,7 +16,7 @@ Clone the repository
 
 Open book-list-tracker folder. Do this for both client and server folder,
 ```bash
-  cd install
+  npm install
 ```
     
 ## Usage
