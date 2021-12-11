@@ -14,7 +14,7 @@ Clone the repository
   https://github.com/Jack10309/book-list-tracker.git
 ```
 
-Open book-list-tracker folder. Do this for both client and server file,
+Open book-list-tracker folder. Do this for both client and server folder,
 ```bash
   cd install
 ```
