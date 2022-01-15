@@ -3,7 +3,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/Jack10309/book-list-tracker)](https://github.com/Jack10309/book-list-tracker/issues)
 
-This project allows you to save book information in the database. You can get the list of the books saved and its details. The goal of building this project is to understand and learn how graphql works in the client and server side.
+This project allows you to save and retrieve book information in the database using graphql queries. The list of books are displayed with its respective authors information. The goal of building this project is to understand and learn how graphql works in the client and server side.
 
 
 ## Installation
@@ -14,9 +14,9 @@ Clone the repository
   https://github.com/Jack10309/book-list-tracker.git
 ```
 
-Open book-list-tracker folder. Do this for both client and server folder,
+Get book-list-tracker/server directory folder in the terminal. 
 ```bash
-  npm install
+  npm run dev
 ```
     
 ## Usage
